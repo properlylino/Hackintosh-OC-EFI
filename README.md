@@ -18,10 +18,12 @@ if it works, please give the repository a star.
 |     Ethernet |      Realtek RTL8168/8111 PCI-E Gigabit Ethernet Adapter     |
 
 ### Working
-Keyboard
-<br>
-All Apple Services (or most of them)
-<br>
+* CPU power management
+* Wi-Fi & Bluetooth & Ethernet
+* USB Ports
+* Sleep & Wake
+* FN keys
+* iCloud, iMessage, FaceTime
 
 ### Issues
 Network adapter works, but it is VERY slow. I advise you to change it to a Bcm94360cs2 (broadcom)
@@ -34,5 +36,3 @@ Couldn't test trackpad as the flat cable / connector of mine is broken. If you p
 it comes with no platforminfo. i used a MacBookPro12,1 as the product.
 <br>
 tested on macOS Big Sur (11.7.10)
-<br>
-thanks Dream471 for the readme file base
