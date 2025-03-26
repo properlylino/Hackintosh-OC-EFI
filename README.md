@@ -36,3 +36,12 @@ Couldn't test trackpad as the flat cable / connector of mine is broken. If you p
 it comes with no platforminfo. i used a MacBookPro12,1 as the product.
 <br>
 tested on macOS Big Sur (11.7.10)
+<br>
+make sure to change some options in your bios.
+
+### BIOS Values
+* `Advanced - USB Configuration - XHCI Pre-Boot Mode` **Enabled**
+* `Advanced - USB Configuration - Legacy USB Support` **Enabled**
+* `Boot - Launch CSM` **Disabled**
+* `Security - Secure Boot Control` **Disabled**
+
