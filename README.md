@@ -1,4 +1,4 @@
-![Banner]([https://raw.githubusercontent.com/properlylino/Hackintosh-OC-EFI/refs/heads/main/img/banner.png](https://i.imgur.com/cGRapOD_d.webp?maxwidth=760&fidelity=grand))
+![Banner](https://i.imgur.com/cGRapOD_d.webp?maxwidth=760&fidelity=grand))
 <br>
 # ASUS-X550CA-OC-EFI
 EFI files compatbile with the asus x550ca laptop
